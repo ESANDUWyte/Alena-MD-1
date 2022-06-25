@@ -1,5 +1,5 @@
 //═══════════════════════════════════════════════════════//
-// 𝚃𝙷𝙸𝚂 𝙱𝙶𝙼 𝙱𝙾𝚃 𝙲𝙾𝙳𝙴𝚁 𝙱𝚈 𝙰𝙱𝚄
+// 𝚃𝙷𝙸𝚂 𝙱𝙶𝙼 𝙱𝙾𝚃 𝙲𝙾𝙳𝙴𝚁 𝙱𝚈 INDUMINA
 // 𝚈𝙾𝚄𝚁 𝙴𝙳𝙸𝚃𝙸𝙽𝙶 𝙾𝚁 𝙲𝙾𝙿𝚈 
 // 𝚈𝙾𝚄 𝙲𝚁𝙴𝙳𝙸𝚃 𝚁𝙴𝙼𝙾𝚅𝙴 𝙱𝚄𝚃
 // 𝙹𝙴𝚂𝚃 𝚂𝙰𝙿𝙿𝙾𝚁𝚃 𝙼𝙴 𝙿𝙻𝚉
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
-global.ownernomer = '917025994178'
-global.ownername = 'ᴊsʟ-ᴀʙᴜ'
-global.botname = 'ᴀʟᴇɴᴀ-ᴍᴅ'
-global.footer = '© ᴀʟᴇɴᴀ ™.'
-global.ig = 'https://github.com/Afx-Abu'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/Afx-Abu/Alena-MD'
+global.owner = ['94701505642']
+global.premium = ['94701505642']
+global.ownernomer = '94701505642'
+global.ownername = 'Indumina'
+global.botname = 'X O F I Y X M D  '
+global.footer = '© Indummina.'
+global.ig = 'https://github.com/ESANDUWyte'
+global.region = 'Sri lanka, Gampaha, Gampaha'
+global.sc = 'https://github.com/ESANDUWyte/Alena-MD'
 global.myweb = 'https://instagram.com/jsl-abu'
-global.packname = 'ᴀʟᴇɴᴀ-ᴍᴅ'
-global.author = 'ᴊsʟ-ᴀʙᴜ'
+global.packname = 'XOFIY X-MD'
+global.author = 'INDUMINA'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -60,7 +60,7 @@ global.mess = {
    potionawal: 1
 }
 
-global.thumb = process.env.IMAGE || 'https://telegra.ph/file/8dcf20551b533dd0739e5.jpg'
+global.thumb = process.env.IMAGE || 'https://telegra.ph/file/f473995d42399de52ffb3.jpg'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
